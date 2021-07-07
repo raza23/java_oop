@@ -10,7 +10,7 @@ public class Obj {
         clicked = true;
     }
 
-    public static voic unclicked(){
+    public static void unclicked(){
         clicked = false;
     }
 
